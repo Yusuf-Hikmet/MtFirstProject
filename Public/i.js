@@ -7,7 +7,7 @@ music.loop = true;
 let m = false;
 
 function Post(){
-    fetch("https://mtfirstproject-1.onrender.com/", {
+    fetch("https://mtfirstproject-2.onrender.com/", {
          method: 'POST',
          headers: {
             'Content-Type': 'application/json'
