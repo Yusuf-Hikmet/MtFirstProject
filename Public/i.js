@@ -7,7 +7,7 @@ music.loop = true;
 let m = false;
 
 function Post(){
-    fetch("http://localhost:3000", {
+    fetch("https://mtfirstproject-1.onrender.com/", {
          method: 'POST',
          headers: {
             'Content-Type': 'application/json'
